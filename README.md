@@ -9,3 +9,7 @@ Topics covered in this repo:
 📍 Backward Propagation
 
 📍 Gradient Descent
+
+📍 Training Pipeline
+
+📍 Linear Regression
