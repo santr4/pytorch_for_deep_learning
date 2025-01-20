@@ -5,3 +5,7 @@ Topics covered in this repo:
 📍 Tensor Basics
 
 📍 Autograd
+
+📍 Backward Propagation
+
+📍 Gradient Descent
